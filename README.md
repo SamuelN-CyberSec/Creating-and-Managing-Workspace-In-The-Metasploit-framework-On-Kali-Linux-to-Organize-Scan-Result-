@@ -2,7 +2,7 @@
 Creating and managing workspace in Metasploit helps you organize scan result and isolate penetration test activities across different project, target and client efficiently.  In this  project I will demonstrate configuration  and managing of workspace in the  Metasploit framework on Kali Linux 
 # Objectives
 -Start Metasploit framework console  
--start Metasploit framework database
+-Start Metasploit framework database
 -Check if PostgreSQL is connected ( Metasploit database) 
 -Create workspace (add,rename,delete) The Metasploit framework 
 -Add host In The Metasploit framework workspace (Ip address) 
